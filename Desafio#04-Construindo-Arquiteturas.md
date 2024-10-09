@@ -15,9 +15,13 @@ Escolha a opção  'Grupo de Recursos' no qual deseja colocar sua VNet, crie um 
 ## 3° Passo
 Confira todas ás  informações da sua rede e após isso clique em 'Criar'. 
 
+![image](https://github.com/user-attachments/assets/20984124-54bf-45ba-bdea-578e4f93f390)
+
 
 ## 4° Passo
-Sua  VNet esta criada, mostrará assim como a tela abaixo
+Sua  Vnet esta criada, mostrará assim como a tela abaixo
+
+![image](https://github.com/user-attachments/assets/fde7436f-802d-48f7-b1d4-86883c37b8ec)
 
 ## 5° Passo
 Ao Voltar Grupo de Recursos na Grid ja aparece a nova rede criada
