@@ -60,4 +60,4 @@ Azure oferece varias ferramentas de monitoramenrto que ajudam a garantir os apli
 Essas ferramentas juntas oferecem um visão abragente do estado dos seus serviços no Azure. 
 Essas ferramentas e práticas ajudam a garantir que os recursos do Azure estejam sempre disponíveis e funcionando de forma otimizada, proporcionando uma base sólida para a operação de negócios.
 
-Finalizamos o Bootcamp AZ900 - Essa certificação é uma excelente base para quem deseja entender os fundamentos do Azure.
+Finalizamos o Bootcamp AZ-900 - Essa certificação é uma excelente base para quem deseja entender os fundamentos do Azure.
