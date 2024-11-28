@@ -1,4 +1,4 @@
-e# Laboratorio Azure AZ-900 | dio
+# Laboratorio Azure AZ-900 | Dio
 
 ## Descrição 📜
 # Seja bem-vindo ao repositório do Bootcamp Microsoft Azure Essentials da DIO!
@@ -33,6 +33,7 @@ Os Desafios e Projetos que realizados no Bootcamp
 - [Documentação do Azure](https://docs.microsoft.com/azure/)
 
 ## Cursos e Trilha de Estudos
+ Links abaixo utilizado para estudo
 -  [AZ-900 - Microsoft Azure Fundamentals ](https://www.sympla.com.br/play/az-900-microsoft-azure-fundamentals-gratis/1176604?referrer=www.google.com)
 -  [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 -  [Trilha de Estudos](https://vivacious-look-f94.notion.site/Trilhas-de-Estudos-Microsoft-Azure-e-Engenharia-de-Dados-Ronnan-Lima-22ebf27200ea4b8e94d4481cbfb2aa5c#5cd61436e9ca449485958675a5d6396e)
